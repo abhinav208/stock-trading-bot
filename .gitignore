@@ -1,0 +1,18 @@
+# Python gitignore
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environment directories
+.venv/
+ENV/
+env/
+venv/
+
+# Environment variables
+.env
+
+# Data files
+*.csv
+*.json
