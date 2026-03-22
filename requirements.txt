@@ -1,0 +1,25 @@
+# Required Python packages for Stock Trading Bot
+
+numpy
+pandas
+talib
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+backtrader
+requests
+jupyter
+
+# For data retrieval
+alpha_vantage
+finance-datareader
+
+# For optimization
+optuna
+
+# For logging
+loguru
+
+# For web scraping
+beautifulsoup4
